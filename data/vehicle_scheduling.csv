@@ -1,0 +1,7 @@
+Vehicle,Greedy_Assigned_Route
+0,3
+1,0
+2,2
+3,1
+
+Total_Optimal_Cost(DP):,20
